@@ -1,0 +1,12 @@
+rank-bm25
+numpy==1.24.4
+scipy==1.11.4
+gensim==4.3.2
+transformers
+torch
+tokenizers
+numpy
+pickle
+json
+pandas
+numpy
