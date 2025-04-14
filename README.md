@@ -11,7 +11,7 @@
 * Triển khai trên web
   
 ## Cấu trúc model:
-![image](https://github.com/user-attachments/assets/bd72958d-7db5-408a-9582-e25a0eedc74a)
+![image](![image](https://github.com/user-attachments/assets/fea7fa84-8597-4afd-93ed-0179e60fb737)
 ## Dữ liệu:
 * Tập dữ liệu về ý định [Link](https://huggingface.co/datasets/clinc/clinc_oos)
 * Tập dữ liệu về cảm xúc [Link]
