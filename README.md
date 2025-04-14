@@ -12,7 +12,7 @@
 * Triển khai trên web
   
 ## Cấu trúc model:
-![image](https://github.com/user-attachments/assets/fea7fa84-8597-4afd-93ed-0179e60fb737](https://github.com/phandaccong/NLP_chatbot/issues/1#issue-2992850632))
+![image](https://github.com/phandaccong/NLP_chatbot/issues/1#issue-2992850632)
 ## Dữ liệu:
 * Tập dữ liệu về ý định [Link](https://huggingface.co/datasets/clinc/clinc_oos)
 * Tập dữ liệu về cảm xúc [Link]
